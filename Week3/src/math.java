@@ -7,6 +7,7 @@ public class math {
             for (int i = 0; i < t+20; i++) {
                 System.out.print(' ');
                 System.out.println("helloworld!");
+                System.out.println(":testtest");
             }
             System.out.print('*');
         }
